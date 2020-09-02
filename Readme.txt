@@ -1,0 +1,4 @@
+- Download XAMP/WAMP to run these files on localhost.
+- In xampp/htdocs/ copy the task folder.
+- On browser open this link (http://localhost/phpmyadmin) and import the database file name tsk_db.sql  
+- Open link 'http://localhost/task/demo' to view the task.
